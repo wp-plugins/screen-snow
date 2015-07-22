@@ -1,0 +1,9 @@
+.single-flake {
+background-color: #fff;
+position: fixed;
+top: 0;
+z-index: 100000;
+}
+.snow-animate {
+top: 99.5%;
+}

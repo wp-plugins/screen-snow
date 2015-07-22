@@ -1,0 +1,1 @@
+jQuery(document).ready(function() {jQuery(document).flake({maxSize :  parseFloat(snow_php_vars.snow_size) ,  createEvery : parseFloat(snow_php_vars.snow_density)  , minSpeed : parseFloat(snow_php_vars.snow_speed) , maxSpeed : 20 , snowColor : snow_php_vars.snow_color , timeout : 0})})
